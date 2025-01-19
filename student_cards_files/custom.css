@@ -1,0 +1,10 @@
+* {
+    /* font-size: 18px;     */
+    /* font-family: 'Tajawal', sans-serif; */
+    /* font-family: 'Almarai', sans-serif; */
+     font-family: 'Droid Arabic Kufi',fallback,sans-serif;
+}    
+footer{display:none!important}
+
+
+
